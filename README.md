@@ -2,6 +2,7 @@
 This is a matlab function to compute the biphase locking index across multiple trials of a time domain signal
 
 required toolboxes - wavelet toolbox
+
 Details of the algorithm can be found in 
 
 F. Darvas, J.G. Ojemann, L.B. Sorensen, Bi-phase locking — a tool for probing non-linear interaction in the human brain, NeuroImage, Volume 46, Issue 1, 15 May 2009, Pages 123-132, ISSN 1053-8119, http://dx.doi.org/10.1016/j.neuroimage.2009.01.034.
